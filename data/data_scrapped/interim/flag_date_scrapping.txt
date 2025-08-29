@@ -1,0 +1,13 @@
+Flag file with data information for next scrapping records filtering
+Last scrapping date:2025_07_17_01
+2025_07_17_01
+Downloaded records count: 3377
+Records count after filtering: 520
+City: kielce, Records count: 91
+City: wroclaw, Records count: 115
+City: warszawa, Records count: 314
+Downloaded records count: 3377
+Records count after filtering: 520
+City: kielce, Records count: 91
+City: wroclaw, Records count: 115
+City: warszawa, Records count: 314
